@@ -82,4 +82,5 @@ We use the MIT License, which in short means you can edit and make your own vers
 
 # Credits
 SoMrshCool (Replit) / SoMrshIsCool (Github) - Curator / Only Developer
+
 DrClef (SCP Wiki) - Created SCP-2317, Project Idea, Parts of the Terminal dialogue
