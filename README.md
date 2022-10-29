@@ -44,7 +44,7 @@ SCP - 096 (Coming Soon, Next SCP Release),
 
 SCP - 106 (Coming Soon),
 
-SCP - 682,
+SCP - 682 (Coming Soon),
 
 SCP - 2317 (because of the idea, released),
 
